@@ -7,7 +7,6 @@ namespace BVB
 {
     public class ResourceModule : MonoSingleton<ResourceModule>, IModule, IModuleUpdate
     {
-
         #region interface 
 
         public void LoadModule()
